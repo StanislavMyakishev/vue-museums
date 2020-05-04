@@ -1,0 +1,5 @@
+<template>
+  <footer>
+    <p>Copyright 2020</p>
+  </footer>
+</template>

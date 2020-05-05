@@ -1,0 +1,3262 @@
+{
+  "info": {
+    "totalrecordsperquery": 20,
+    "totalrecords": 234272,
+    "pages": 11714,
+    "page": 1,
+    "next": "https://api.harvardartmuseums.org/object?size=20&apikey=90f91620-7d8f-11ea-995a-efc19ec4eb40&page=2"
+  },
+  "records": [
+    {
+      "accessionyear": null,
+      "technique": "Screen print",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 77,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Köpcke, Arthur",
+          "birthplace": "Hamburg, Germany",
+          "name": "Arthur Köpcke",
+          "prefix": null,
+          "personid": 18028,
+          "gender": "unknown",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "German",
+          "displaydate": "1928 - 1977",
+          "deathplace": "Copenhagen, Denmark",
+          "displayname": "Arthur Köpcke"
+        },
+        {
+          "alphasort": "Galerie René Block, Berlin",
+          "birthplace": null,
+          "name": "Galerie René Block, Berlin",
+          "prefix": "Published by",
+          "personid": 3672,
+          "gender": "unknown",
+          "role": "Publisher",
+          "displayorder": 2,
+          "culture": null,
+          "displaydate": null,
+          "deathplace": null,
+          "displayname": "Published by Galerie René Block, Berlin"
+        }
+      ],
+      "objectnumber": "1995.255.5.A",
+      "colorcount": 0,
+      "lastupdate": "2020-05-03T06:05:22-0400",
+      "rank": 116303,
+      "imagecount": 0,
+      "description": null,
+      "dateoflastpageview": "2020-05-01",
+      "dateoffirstpageview": "2013-07-11",
+      "dated": "1972",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": null,
+      "url": "https://www.harvardartmuseums.org/collections/object/30426",
+      "provenance": null,
+      "publicationcount": 0,
+      "objectid": 30426,
+      "culture": "German",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "department": "Busch-Reisinger Museum",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_moderncontemporary@harvard.edu",
+      "titlescount": 3,
+      "id": 30426,
+      "title": "Folder for Glasshouse from inside; Glasshouse from outside, from the portfolio \"Weekend\"",
+      "verificationlevel": 2,
+      "division": "Modern and Contemporary Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 1,
+      "datebegin": 1972,
+      "labeltext": null,
+      "totaluniquepageviews": 57,
+      "dimensions": "folder: 62.7 x 48.5 cm (24 11/16 x 19 1/8 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 306,
+      "dateend": 1972,
+      "creditline": "Harvard Art Museums/Busch-Reisinger Museum, The Willy and Charlotte Reber Collection, Richard Norton Memorial Fund",
+      "imagepermissionlevel": 1,
+      "signed": null,
+      "periodid": null,
+      "century": "20th century",
+      "classificationid": 2,
+      "medium": "Paper with printed writing",
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Accessories (non-art)"
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 8,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Rigaud, Jean",
+          "birthplace": null,
+          "name": "Jean Rigaud",
+          "prefix": null,
+          "personid": 32945,
+          "gender": "unknown",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1700 - 1754",
+          "deathplace": null,
+          "displayname": "Jean Rigaud"
+        }
+      ],
+      "objectnumber": "R8866",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 251567,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2017-08-21",
+      "dateoffirstpageview": "2013-02-27",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183364_dynmc",
+      "colors": [
+        {
+          "percent": 0.28695652173913,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.17992753623188,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.14775362318841,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.11608695652174,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.097173913043478,
+          "spectrum": "#8c5fa8",
+          "color": "#c8c8c8",
+          "css3": "#c0c0c0",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.093695652173913,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.078405797101449,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241274",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 629,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20489459",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183364_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20489459,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 298586,
+          "renditionnumber": "INV183364"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241274,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 3,
+      "id": 241274,
+      "title": "The Joust",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 7,
+      "dimensions": "Sheet: 15.5 × 26.5 cm (6 1/8 × 10 7/16 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 1,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241274",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 25,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Tardieu, Nicolas Henri",
+          "birthplace": "Paris",
+          "name": "Nicolas Henri Tardieu",
+          "prefix": null,
+          "personid": 33166,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1674 - 1749",
+          "deathplace": "Paris",
+          "displayname": "Nicolas Henri Tardieu"
+        },
+        {
+          "alphasort": "Rubens, Peter Paul",
+          "birthplace": "Siegen, Westphalia",
+          "name": "Peter Paul Rubens",
+          "prefix": "After",
+          "personid": 28402,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Flemish",
+          "displaydate": "1577 - 1640",
+          "deathplace": "Antwerp, Belgium",
+          "displayname": "After Peter Paul Rubens"
+        }
+      ],
+      "objectnumber": "R3692",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 246949,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2019-09-19",
+      "dateoffirstpageview": "2013-01-11",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV182880_dynmc",
+      "colors": [
+        {
+          "percent": 0.23009708737864,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.22466019417476,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.19734627831715,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.16006472491909,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.083430420711974,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.066019417475728,
+          "spectrum": "#3db657",
+          "color": "#321919",
+          "css3": "#000000",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.038381877022654,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241284",
+      "provenance": "John Witt Randall, bequest; to Belinda Lull Randall, his sister, gift; to Harvard University, 1892\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20438480",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV182880_dynmc",
+          "width": 707,
+          "publiccaption": null,
+          "idsid": 20438480,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 298071,
+          "renditionnumber": "INV182880"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241284,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "LeBlanc 42-53",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241284,
+      "title": "Victory Crowning Constantine",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 24,
+      "dimensions": "Image: 30.6 × 23.8 cm (12 1/16 × 9 3/8 in.)\r\nSheet: 34.9 × 23.8 cm (13 3/4 × 9 3/8 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241284",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 5,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Veyrassat, Jules Jacques",
+          "birthplace": null,
+          "name": "Jules Jacques Veyrassat",
+          "prefix": null,
+          "personid": 33324,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1828 - 1893",
+          "deathplace": null,
+          "displayname": "Jules Jacques Veyrassat"
+        },
+        {
+          "alphasort": "Cuyp, Aelbert",
+          "birthplace": "Dordrecht, Netherlands",
+          "name": "Aelbert Cuyp",
+          "prefix": "After",
+          "personid": 34364,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Dutch",
+          "displaydate": "1620 - 1691",
+          "deathplace": "Dordrecht, Netherlands",
+          "displayname": "After Aelbert Cuyp"
+        }
+      ],
+      "objectnumber": "R9611",
+      "colorcount": 8,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 252253,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2011-07-18",
+      "dateoffirstpageview": "2010-03-24",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV177433_dynmc",
+      "colors": [
+        {
+          "percent": 0.53424731182796,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.11327956989247,
+          "spectrum": "#8362aa",
+          "color": "#7d7d7d",
+          "css3": "#808080",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.11021505376344,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.081505376344086,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.049139784946237,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.045,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.041290322580645,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.025322580645161,
+          "spectrum": "#1eb264",
+          "color": "#191919",
+          "css3": "#000000",
+          "hue": "Grey"
+        }
+      ],
+      "dated": "19th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241293",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 848,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20434740",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV177433_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20434740,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 292069,
+          "renditionnumber": "INV177433"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241293,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241293,
+      "title": "Landscape with Animals",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 3,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "19th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241293",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 32,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Surugue, Louis",
+          "birthplace": "Paris",
+          "name": "Louis Surugue",
+          "prefix": null,
+          "personid": 33146,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1686 - 1762",
+          "deathplace": "Paris",
+          "displayname": "Louis Surugue"
+        },
+        {
+          "alphasort": "Debrie, Gabriel François Louis",
+          "birthplace": null,
+          "name": "Gabriel François Louis Debrie",
+          "prefix": "After",
+          "personid": 61999,
+          "gender": "unknown",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Dutch",
+          "displaydate": "active 1729-1754",
+          "deathplace": null,
+          "displayname": "After Gabriel François Louis Debrie"
+        }
+      ],
+      "objectnumber": "R1128NA",
+      "colorcount": 6,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 244844,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2019-12-28",
+      "dateoffirstpageview": "2009-12-26",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183224_dynmc",
+      "colors": [
+        {
+          "percent": 0.30195402298851,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.24597701149425,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.20252873563218,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.13706896551724,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.091091954022989,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.021379310344828,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241302",
+      "provenance": null,
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20438669",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183224_dynmc",
+          "width": 796,
+          "publiccaption": null,
+          "idsid": 20438669,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 298443,
+          "renditionnumber": "INV183224"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241302,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 3,
+      "id": 241302,
+      "title": "Illustration to the Adventures of Telemachus",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 19,
+      "dimensions": "Image: 20.4 × 16.8 cm (8 1/16 × 6 5/8 in.)\r\nSheet: 22.4 × 17.4 cm (8 13/16 × 6 7/8 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241302",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 9,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Surugue, Pierre Louis",
+          "birthplace": null,
+          "name": "Pierre Louis Surugue",
+          "prefix": null,
+          "personid": 33147,
+          "gender": "unknown",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1716 - 1772",
+          "deathplace": null,
+          "displayname": "Pierre Louis Surugue"
+        },
+        {
+          "alphasort": "La Tour, Maurice-Quentin de",
+          "birthplace": "Saint-Quentin",
+          "name": "Maurice-Quentin de La Tour",
+          "prefix": "After",
+          "personid": 27084,
+          "gender": "unknown",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "French",
+          "displaydate": "1704 - 1788",
+          "deathplace": "Saint-Quentin",
+          "displayname": "After Maurice-Quentin de La Tour"
+        }
+      ],
+      "objectnumber": "R4354",
+      "colorcount": 8,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 247481,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2016-10-27",
+      "dateoffirstpageview": "2010-03-17",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV118387_dynmc",
+      "colors": [
+        {
+          "percent": 0.23061728395062,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.20475308641975,
+          "spectrum": "#e66c64",
+          "color": "#c8af96",
+          "css3": "#d2b48c",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.17555555555556,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.15648148148148,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.074753086419753,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.06141975308642,
+          "spectrum": "#1eb264",
+          "color": "#191919",
+          "css3": "#000000",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.051481481481481,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.044938271604938,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241304",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20238456",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV118387_dynmc",
+          "width": 744,
+          "publiccaption": null,
+          "idsid": 20238456,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 207136,
+          "renditionnumber": "INV118387"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241304,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "Le Bl. 1",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": "unlettered",
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241304,
+      "title": "René Fremin",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 9,
+      "dimensions": "Image: 34 × 23.5 cm (13 3/8 × 9 1/4 in.)\r\nPlate: 37.1 × 25 cm (14 5/8 × 9 13/16 in.)\r\nSheet: 42.5 × 29.9 cm (16 3/4 × 11 3/4 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241304",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 4,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Silvestre, Israël",
+          "birthplace": "Nancy",
+          "name": "Israël Silvestre",
+          "prefix": null,
+          "personid": 28717,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1621 - 1691",
+          "deathplace": "Paris",
+          "displayname": "Israël Silvestre"
+        }
+      ],
+      "objectnumber": "R11052",
+      "colorcount": 6,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 253172,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2015-11-08",
+      "dateoffirstpageview": "2013-04-13",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181480_dynmc",
+      "colors": [
+        {
+          "percent": 0.71904761904762,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.11687074829932,
+          "spectrum": "#e66c64",
+          "color": "#c8af96",
+          "css3": "#d2b48c",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.050952380952381,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.04952380952381,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.033741496598639,
+          "spectrum": "#e9715f",
+          "color": "#e1e1c8",
+          "css3": "#dcdcdc",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.029863945578231,
+          "spectrum": "#b25593",
+          "color": "#7d644b",
+          "css3": "#696969",
+          "hue": "Yellow"
+        }
+      ],
+      "dated": "17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241309",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 674,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20437640",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181480_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20437640,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 296558,
+          "renditionnumber": "INV181480"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241309,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "Le Bl. 11",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241309,
+      "title": "S. Paolo",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 4,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 1,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241309",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 20,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Pesne, Jean",
+          "birthplace": null,
+          "name": "Jean Pesne",
+          "prefix": null,
+          "personid": 32812,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1623 - 1700",
+          "deathplace": null,
+          "displayname": "Jean Pesne"
+        },
+        {
+          "alphasort": "Poussin, Nicolas",
+          "birthplace": "Les Andelys, France",
+          "name": "Nicolas Poussin",
+          "prefix": "After",
+          "personid": 28134,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "French",
+          "displaydate": "1594 - 1665",
+          "deathplace": "Rome, Italy",
+          "displayname": "After Nicolas Poussin"
+        }
+      ],
+      "objectnumber": "R1502",
+      "colorcount": 9,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 245196,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2020-01-17",
+      "dateoffirstpageview": "2012-10-02",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV170535_dynmc",
+      "colors": [
+        {
+          "percent": 0.22311526479751,
+          "spectrum": "#59ba4a",
+          "color": "#644b32",
+          "css3": "#556b2f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.21869158878505,
+          "spectrum": "#b25593",
+          "color": "#7d644b",
+          "css3": "#696969",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.17102803738318,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.13295950155763,
+          "spectrum": "#e9715f",
+          "color": "#e1c8af",
+          "css3": "#f5deb3",
+          "hue": "Orange"
+        },
+        {
+          "percent": 0.072959501557632,
+          "spectrum": "#e9715f",
+          "color": "#e1e1c8",
+          "css3": "#dcdcdc",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.072772585669782,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.058691588785047,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.048535825545171,
+          "spectrum": "#e66c64",
+          "color": "#c8af96",
+          "css3": "#d2b48c",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.0012461059190031,
+          "spectrum": "#2eb45d",
+          "color": "#191900",
+          "css3": "#000000",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241313",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 731,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20423175",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV170535_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20423175,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 282847,
+          "renditionnumber": "INV170535"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241313,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "R.-D. 22",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": "iii",
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241313,
+      "title": "Penance",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 19,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241313",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 12,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Pesne, Jean",
+          "birthplace": null,
+          "name": "Jean Pesne",
+          "prefix": null,
+          "personid": 32812,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1623 - 1700",
+          "deathplace": null,
+          "displayname": "Jean Pesne"
+        },
+        {
+          "alphasort": "Raphael",
+          "birthplace": "Urbino, Italy",
+          "name": "Raphael",
+          "prefix": "After",
+          "personid": 28220,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Italian",
+          "displaydate": "1483 - 1520",
+          "deathplace": "Rome, Italy",
+          "displayname": "After Raphael"
+        }
+      ],
+      "objectnumber": "R1505",
+      "colorcount": 6,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 245199,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2014-10-26",
+      "dateoffirstpageview": "2012-01-21",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV112724_dynmc",
+      "colors": [
+        {
+          "percent": 0.22279202279202,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.18039886039886,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.16165242165242,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.15527065527066,
+          "spectrum": "#b55592",
+          "color": "#c8afaf",
+          "css3": "#c0c0c0",
+          "hue": "Red"
+        },
+        {
+          "percent": 0.14991452991453,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.12997150997151,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        }
+      ],
+      "dated": "17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241317",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20234793",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV112724_dynmc",
+          "width": 803,
+          "publiccaption": null,
+          "idsid": 20234793,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 200915,
+          "renditionnumber": "INV112724"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241317,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "R-D 95",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": "v",
+      "markscount": 1,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241317,
+      "title": "Holy Family",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 10,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241317",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 4,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Swebach, Jacques-Francois-Joseph",
+          "birthplace": null,
+          "name": "Jacques-Francois-Joseph Swebach",
+          "prefix": null,
+          "personid": 28923,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1769 - 1823",
+          "deathplace": null,
+          "displayname": "Jacques-Francois-Joseph Swebach"
+        }
+      ],
+      "objectnumber": "R15027",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 255641,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2013-08-28",
+      "dateoffirstpageview": "2012-11-16",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV186252_dynmc",
+      "colors": [
+        {
+          "percent": 0.8178231292517,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.10884353741497,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.047551020408163,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.019183673469388,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.0054421768707483,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.0010884353741497,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.000068027210884354,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        }
+      ],
+      "dated": "18th-19th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241321",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 675,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20490988",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV186252_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20490988,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 302231,
+          "renditionnumber": "INV186252"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241321,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241321,
+      "title": "Plate LVII",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 4,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th-19th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 1,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241321",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 5,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Pelée, Pierre",
+          "birthplace": null,
+          "name": "Pierre Pelée",
+          "prefix": null,
+          "personid": 32790,
+          "gender": "unknown",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1795 - ",
+          "deathplace": null,
+          "displayname": "Pierre Pelée"
+        },
+        {
+          "alphasort": "Lalaisse, Charles",
+          "birthplace": null,
+          "name": "Charles Lalaisse",
+          "prefix": null,
+          "personid": 32285,
+          "gender": "unknown",
+          "role": "Artist",
+          "displayorder": 2,
+          "culture": "French",
+          "displaydate": "1811 - 1880",
+          "deathplace": null,
+          "displayname": "Charles Lalaisse"
+        }
+      ],
+      "objectnumber": "R14361",
+      "colorcount": 8,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 255167,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2014-01-13",
+      "dateoffirstpageview": "2011-12-08",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV186490_dynmc",
+      "colors": [
+        {
+          "percent": 0.44469565217391,
+          "spectrum": "#8c5fa8",
+          "color": "#c8c8c8",
+          "css3": "#c0c0c0",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.24098550724638,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.086376811594203,
+          "spectrum": "#3db657",
+          "color": "#4b4b4b",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.06463768115942,
+          "spectrum": "#8761aa",
+          "color": "#969696",
+          "css3": "#a9a9a9",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.054260869565217,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.040579710144928,
+          "spectrum": "#8362aa",
+          "color": "#7d7d7d",
+          "css3": "#808080",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.037101449275362,
+          "spectrum": "#1eb264",
+          "color": "#191919",
+          "css3": "#000000",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.03136231884058,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        }
+      ],
+      "dated": "19th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241325",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20491162",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV186490_dynmc",
+          "width": 785,
+          "publiccaption": null,
+          "idsid": 20491162,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 302484,
+          "renditionnumber": "INV186490"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241325,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241325,
+      "title": "The Waking of Eve",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 4,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "19th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241325",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 6,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Surugue, Louis",
+          "birthplace": "Paris",
+          "name": "Louis Surugue",
+          "prefix": null,
+          "personid": 33146,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1686 - 1762",
+          "deathplace": "Paris",
+          "displayname": "Louis Surugue"
+        },
+        {
+          "alphasort": "Dou, Gerhard",
+          "birthplace": null,
+          "name": "Gerhard Dou",
+          "prefix": "After",
+          "personid": 18470,
+          "gender": "unknown",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Dutch",
+          "displaydate": "1613 - 1675",
+          "deathplace": null,
+          "displayname": "After Gerhard Dou"
+        }
+      ],
+      "objectnumber": "R4359",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 247485,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2020-04-12",
+      "dateoffirstpageview": "2012-08-07",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183223_dynmc",
+      "colors": [
+        {
+          "percent": 0.25090342679128,
+          "spectrum": "#3db657",
+          "color": "#321919",
+          "css3": "#000000",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.22492211838006,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.138753894081,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.1207476635514,
+          "spectrum": "#8761aa",
+          "color": "#969696",
+          "css3": "#a9a9a9",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.10442367601246,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.094454828660436,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.065794392523364,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241341",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20438668",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183223_dynmc",
+          "width": 735,
+          "publiccaption": null,
+          "idsid": 20438668,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 298442,
+          "renditionnumber": "INV183223"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241341,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241341,
+      "title": "Girl Chopping Onions",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 6,
+      "dimensions": "Image: 23.3 × 18.5 cm (9 3/16 × 7 5/16 in.)\r\nPlate: 28 × 19 cm (11 × 7 1/2 in.)\r\nSheet: 28.8 × 20 cm (11 5/16 × 7 7/8 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241341",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 11,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Surugue, Louis",
+          "birthplace": "Paris",
+          "name": "Louis Surugue",
+          "prefix": null,
+          "personid": 33146,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1686 - 1762",
+          "deathplace": "Paris",
+          "displayname": "Louis Surugue"
+        },
+        {
+          "alphasort": "Picart, Bernard",
+          "birthplace": "Paris",
+          "name": "Bernard Picart",
+          "prefix": "After",
+          "personid": 28062,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "French",
+          "displaydate": "1673 - 1733",
+          "deathplace": "Amsterdam",
+          "displayname": "After Bernard Picart"
+        },
+        {
+          "alphasort": "Le Brun, Charles",
+          "birthplace": "Paris",
+          "name": "Charles Le Brun",
+          "prefix": "After",
+          "personid": 27100,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 3,
+          "culture": "French",
+          "displaydate": "1619 - 1690",
+          "deathplace": "Paris",
+          "displayname": "After Charles Le Brun"
+        }
+      ],
+      "objectnumber": "R4365",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 247491,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2020-01-03",
+      "dateoffirstpageview": "2012-12-15",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV115579_dynmc",
+      "colors": [
+        {
+          "percent": 0.53884615384615,
+          "spectrum": "#2eb45d",
+          "color": "#323232",
+          "css3": "#2f4f4f",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.13641025641026,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.13166666666667,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.068846153846154,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.064551282051282,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.046346153846154,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.013333333333333,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241344",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 713,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20236582",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV115579_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20236582,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 204199,
+          "renditionnumber": "INV115579"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241344,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241344,
+      "title": "Wild Boar Hunt",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 11,
+      "dimensions": "Sheet: 28.8 × 42 cm (11 5/16 × 16 9/16 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 3,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241344",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 30,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Thomassin, Philippe",
+          "birthplace": null,
+          "name": "Philippe Thomassin",
+          "prefix": null,
+          "personid": 33203,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "c. 1562 - 1622",
+          "deathplace": null,
+          "displayname": "Philippe Thomassin"
+        },
+        {
+          "alphasort": "Woeiriot, Pierre",
+          "birthplace": "Neufchâteau, Vosges, France",
+          "name": "Pierre Woeiriot",
+          "prefix": "After",
+          "personid": 19836,
+          "gender": "unknown",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "French",
+          "displaydate": "1532 - 1599",
+          "deathplace": "Damblain, Haute-Marne, France",
+          "displayname": "After Pierre Woeiriot"
+        }
+      ],
+      "objectnumber": "R15193",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 255782,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2020-03-17",
+      "dateoffirstpageview": "2011-07-02",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV180447_dynmc",
+      "colors": [
+        {
+          "percent": 0.21701149425287,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.19367816091954,
+          "spectrum": "#b25593",
+          "color": "#7d644b",
+          "css3": "#696969",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.1782183908046,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.17379310344828,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.087988505747126,
+          "spectrum": "#e66c64",
+          "color": "#c8af96",
+          "css3": "#d2b48c",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.077758620689655,
+          "spectrum": "#c15689",
+          "color": "#e1c8c8",
+          "css3": "#d8bfd8",
+          "hue": "Orange"
+        },
+        {
+          "percent": 0.071551724137931,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "16th-17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241365",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20436983",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV180447_dynmc",
+          "width": 799,
+          "publiccaption": null,
+          "idsid": 20436983,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 295384,
+          "renditionnumber": "INV180447"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241365,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "Bruwaert 342, LeBl. n.d., R.-D. 206",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241365,
+      "title": "The Wife of Hasdrubal Seeking Death",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 24,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "16th-17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241365",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 18,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Perelle (or other member of Perelle family), Gabriel",
+          "birthplace": null,
+          "name": "Gabriel Perelle (or other member of Perelle family)",
+          "prefix": null,
+          "personid": 32799,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1603? - 1677",
+          "deathplace": null,
+          "displayname": "Gabriel Perelle (or other member of Perelle family)"
+        }
+      ],
+      "objectnumber": "R974NA",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 244556,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2019-10-22",
+      "dateoffirstpageview": "2009-08-26",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181160_dynmc",
+      "colors": [
+        {
+          "percent": 0.20915824915825,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.19885521885522,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.18902356902357,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.17575757575758,
+          "spectrum": "#b25593",
+          "color": "#7d644b",
+          "css3": "#696969",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.12572390572391,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.053737373737374,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.047744107744108,
+          "spectrum": "#b55592",
+          "color": "#c8afaf",
+          "css3": "#c0c0c0",
+          "hue": "Red"
+        }
+      ],
+      "dated": "17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241380",
+      "provenance": null,
+      "images": [
+        {
+          "height": 680,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20437468",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181160_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20437468,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 296228,
+          "renditionnumber": "INV181160"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241380,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 1,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241380,
+      "title": "Plate III",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 16,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 1,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241380",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 30,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Tardieu, Jacques Nicolas",
+          "birthplace": null,
+          "name": "Jacques Nicolas Tardieu",
+          "prefix": null,
+          "personid": 33164,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1716 - 1791",
+          "deathplace": null,
+          "displayname": "Jacques Nicolas Tardieu"
+        },
+        {
+          "alphasort": "Teniers, David II",
+          "birthplace": null,
+          "name": "David Teniers II",
+          "prefix": "After",
+          "personid": 33184,
+          "gender": "unknown",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Flemish",
+          "displaydate": "1610 - 1690",
+          "deathplace": null,
+          "displayname": "After David Teniers II"
+        }
+      ],
+      "objectnumber": "R3675",
+      "colorcount": 9,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 246932,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2020-03-04",
+      "dateoffirstpageview": "2013-06-23",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV118241_dynmc",
+      "colors": [
+        {
+          "percent": 0.31088888888889,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.20816666666667,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.13861111111111,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.10755555555556,
+          "spectrum": "#b55592",
+          "color": "#c8afaf",
+          "css3": "#c0c0c0",
+          "hue": "Red"
+        },
+        {
+          "percent": 0.096555555555556,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.094777777777778,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.029833333333333,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.011722222222222,
+          "spectrum": "#c15689",
+          "color": "#e1c8c8",
+          "css3": "#d8bfd8",
+          "hue": "Orange"
+        },
+        {
+          "percent": 0.0018888888888889,
+          "spectrum": "#2eb45d",
+          "color": "#191900",
+          "css3": "#000000",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241385",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 822,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20238310",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV118241_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20238310,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 206990,
+          "renditionnumber": "INV118241"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241385,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "Le Bl. 34, And. 3",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": "i",
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241385,
+      "title": "The Miseries of War",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 23,
+      "dimensions": "Image: 43.1 × 60 cm (16 15/16 × 23 5/8 in.)\r\nSheet: 49.8 × 62.6 cm (19 5/8 × 24 5/8 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241385",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 21,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Perelle (or other member of Perelle family), Gabriel",
+          "birthplace": null,
+          "name": "Gabriel Perelle (or other member of Perelle family)",
+          "prefix": null,
+          "personid": 32799,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1603? - 1677",
+          "deathplace": null,
+          "displayname": "Gabriel Perelle (or other member of Perelle family)"
+        }
+      ],
+      "objectnumber": "R977NA",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 244560,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2017-12-23",
+      "dateoffirstpageview": "2009-08-26",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181144_dynmc",
+      "colors": [
+        {
+          "percent": 0.26113636363636,
+          "spectrum": "#6cbd45",
+          "color": "#7d7d64",
+          "css3": "#808080",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.15840909090909,
+          "spectrum": "#8e5ea7",
+          "color": "#96967d",
+          "css3": "#808080",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.13780303030303,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.12681818181818,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.12492424242424,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.11916666666667,
+          "spectrum": "#8e5ea7",
+          "color": "#afaf96",
+          "css3": "#a9a9a9",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.071742424242424,
+          "spectrum": "#b55592",
+          "color": "#c8afaf",
+          "css3": "#c0c0c0",
+          "hue": "Red"
+        }
+      ],
+      "dated": "17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241390",
+      "provenance": null,
+      "images": [
+        {
+          "height": 605,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20437455",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181144_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20437455,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 296212,
+          "renditionnumber": "INV181144"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241390,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": null,
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241390,
+      "title": "Plate VI",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 15,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 1,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241390",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Engraving",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 5,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Pesne, Jean",
+          "birthplace": null,
+          "name": "Jean Pesne",
+          "prefix": null,
+          "personid": 32812,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1623 - 1700",
+          "deathplace": null,
+          "displayname": "Jean Pesne"
+        },
+        {
+          "alphasort": "Poussin, Nicolas",
+          "birthplace": "Les Andelys, France",
+          "name": "Nicolas Poussin",
+          "prefix": "After",
+          "personid": 28134,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "French",
+          "displaydate": "1594 - 1665",
+          "deathplace": "Rome, Italy",
+          "displayname": "After Nicolas Poussin"
+        }
+      ],
+      "objectnumber": "R1504",
+      "colorcount": 8,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 245198,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2016-05-17",
+      "dateoffirstpageview": "2012-11-15",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181531_dynmc",
+      "colors": [
+        {
+          "percent": 0.48708333333333,
+          "spectrum": "#e66c64",
+          "color": "#c8af96",
+          "css3": "#d2b48c",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.10921296296296,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.085185185185185,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.08125,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.07962962962963,
+          "spectrum": "#8761aa",
+          "color": "#969696",
+          "css3": "#a9a9a9",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.067407407407407,
+          "spectrum": "#59ba4a",
+          "color": "#64644b",
+          "css3": "#696969",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.066018518518519,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.024212962962963,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "17th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241395",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, sister of John Witt Randall, gift to Harvard University, 1892.\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20437689",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV181531_dynmc",
+          "width": 987,
+          "publiccaption": null,
+          "idsid": 20437689,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 296609,
+          "renditionnumber": "INV181531"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241395,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "R-D 89",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 1,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241395,
+      "title": "Two Children",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 5,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 98,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241395",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 0,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Petit, Léonce",
+          "birthplace": null,
+          "name": "Léonce Petit",
+          "prefix": null,
+          "personid": 32818,
+          "gender": "unknown",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1839 - 1884",
+          "deathplace": null,
+          "displayname": "Léonce Petit"
+        }
+      ],
+      "objectnumber": "R9319",
+      "colorcount": 8,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 251989,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": null,
+      "dateoffirstpageview": null,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV143166_dynmc",
+      "colors": [
+        {
+          "percent": 0.49706666666667,
+          "spectrum": "#c15689",
+          "color": "#e1c8c8",
+          "css3": "#d8bfd8",
+          "hue": "Orange"
+        },
+        {
+          "percent": 0.36893333333333,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.028733333333333,
+          "spectrum": "#b25593",
+          "color": "#7d644b",
+          "css3": "#696969",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.0244,
+          "spectrum": "#4ab851",
+          "color": "#4b4b32",
+          "css3": "#556b2f",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.023666666666667,
+          "spectrum": "#e66c64",
+          "color": "#c8af96",
+          "css3": "#d2b48c",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.022733333333333,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.020933333333333,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.013533333333333,
+          "spectrum": "#3db657",
+          "color": "#323219",
+          "css3": "#2f4f4f",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "19th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241396",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 685,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20307077",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV143166_dynmc",
+          "width": 1024,
+          "publiccaption": null,
+          "idsid": 20307077,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 236877,
+          "renditionnumber": "INV143166"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241396,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "Ber. X, 266",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 2,
+      "id": 241396,
+      "title": "Triumphant Entrance to the Village",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 0,
+      "dimensions": null,
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "19th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 1,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241396",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "accessionyear": null,
+      "technique": "Etching",
+      "mediacount": 0,
+      "edition": null,
+      "totalpageviews": 6,
+      "groupcount": 0,
+      "people": [
+        {
+          "alphasort": "Picart, Bernard",
+          "birthplace": "Paris",
+          "name": "Bernard Picart",
+          "prefix": null,
+          "personid": 28062,
+          "gender": "male",
+          "role": "Artist",
+          "displayorder": 1,
+          "culture": "French",
+          "displaydate": "1673 - 1733",
+          "deathplace": "Amsterdam",
+          "displayname": "Bernard Picart"
+        },
+        {
+          "alphasort": "Raphael",
+          "birthplace": "Urbino, Italy",
+          "name": "Raphael",
+          "prefix": "After",
+          "personid": 28220,
+          "gender": "male",
+          "role": "Artist after",
+          "displayorder": 2,
+          "culture": "Italian",
+          "displaydate": "1483 - 1520",
+          "deathplace": "Rome, Italy",
+          "displayname": "After Raphael"
+        }
+      ],
+      "objectnumber": "R7498",
+      "colorcount": 7,
+      "lastupdate": "2020-05-03T06:13:13-0400",
+      "rank": 250263,
+      "imagecount": 1,
+      "description": null,
+      "dateoflastpageview": "2015-10-27",
+      "dateoffirstpageview": "2009-12-10",
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183100_dynmc",
+      "colors": [
+        {
+          "percent": 0.84514851485149,
+          "spectrum": "#b55592",
+          "color": "#c8c8af",
+          "css3": "#c0c0c0",
+          "hue": "Green"
+        },
+        {
+          "percent": 0.038547854785479,
+          "spectrum": "#8362aa",
+          "color": "#7d7d7d",
+          "css3": "#808080",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.036633663366337,
+          "spectrum": "#8761aa",
+          "color": "#969696",
+          "css3": "#a9a9a9",
+          "hue": "Grey"
+        },
+        {
+          "percent": 0.034455445544554,
+          "spectrum": "#c25687",
+          "color": "#af967d",
+          "css3": "#bc8f8f",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.017953795379538,
+          "spectrum": "#b25593",
+          "color": "#7d644b",
+          "css3": "#696969",
+          "hue": "Yellow"
+        },
+        {
+          "percent": 0.017029702970297,
+          "spectrum": "#b65590",
+          "color": "#967d64",
+          "css3": "#808080",
+          "hue": "Brown"
+        },
+        {
+          "percent": 0.01023102310231,
+          "spectrum": "#59ba4a",
+          "color": "#644b32",
+          "css3": "#556b2f",
+          "hue": "Brown"
+        }
+      ],
+      "dated": "17th-18th century",
+      "contextualtextcount": 0,
+      "copyright": null,
+      "period": null,
+      "accessionmethod": "Gift",
+      "url": "https://www.harvardartmuseums.org/collections/object/241399",
+      "provenance": "John Witt Randall, bequest to his sister.\r\nBelinda Lull Randall, gift to Harvard University, 1892. sister of John Witt Randall\r\n",
+      "images": [
+        {
+          "height": 1024,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20438560",
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV183100_dynmc",
+          "width": 693,
+          "publiccaption": null,
+          "idsid": 20438560,
+          "displayorder": 1,
+          "format": "image/jpeg",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 298316,
+          "renditionnumber": "INV183100"
+        }
+      ],
+      "publicationcount": 0,
+      "objectid": 241399,
+      "culture": "French",
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "standardreferencenumber": "Le Bl. 16",
+      "worktypes": [
+        {
+          "worktypeid": "278",
+          "worktype": "print"
+        }
+      ],
+      "department": "Department of Prints",
+      "state": null,
+      "markscount": 0,
+      "contact": "am_europeanamerican@harvard.edu",
+      "titlescount": 1,
+      "id": 241399,
+      "title": "Madonna and Child with S. John",
+      "verificationlevel": 2,
+      "division": "European and American Art",
+      "style": null,
+      "commentary": null,
+      "relatedcount": 0,
+      "datebegin": 0,
+      "labeltext": null,
+      "totaluniquepageviews": 5,
+      "dimensions": "Plate: 22 × 17 cm (8 11/16 × 6 11/16 in.)\r\nSheet: 42 × 27.7 cm (16 9/16 × 10 7/8 in.)",
+      "exhibitioncount": 0,
+      "techniqueid": 116,
+      "dateend": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall",
+      "imagepermissionlevel": 0,
+      "signed": null,
+      "periodid": null,
+      "century": "17th-18th century",
+      "classificationid": 23,
+      "medium": null,
+      "peoplecount": 2,
+      "accesslevel": 1,
+      "classification": "Prints",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/241399",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    }
+  ]
+}

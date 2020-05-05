@@ -10,6 +10,24 @@
     background-color: rgba(0, 0, 0, 0.3);
   }
 
+  &__favorite-button {
+    position: absolute;
+    top: 45px;
+    right: 5px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    z-index: 2;
+
+    img {
+      width: 40px;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+
   &__title {
     margin: 10px 0;
 

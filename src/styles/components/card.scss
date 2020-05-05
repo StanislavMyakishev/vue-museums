@@ -1,4 +1,5 @@
 .card {
+  position: relative;
   grid-column-end: span 3;
   display: flex;
   flex-direction: column;
@@ -10,6 +11,29 @@
     grid-column-end: span 3;
     display: flex;
     flex-direction: column;
+  }
+
+  &__favorite-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    z-index: 2;
+    transition: all 0.3s ease-out 0s;
+
+    img {
+      width: 30px;
+    }
+
+    &:focus {
+      outline: none;
+    }
+
+    &:hover {
+      transform: translateY(-5px);
+    }
   }
 
   &__content {

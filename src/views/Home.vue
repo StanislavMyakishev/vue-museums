@@ -5,7 +5,7 @@
       <section class="cards-list">
         <v-card
           v-for="artPiece in artPieces"
-          :key="artPiece.objectnumber"
+          :key="artPiece.objectNumber"
           v-bind:artPiece="artPiece"
         ></v-card>
       </section>
@@ -14,15 +14,17 @@
 </template>
 
 <script>
-import { mapState, mapActions } from "vuex";
+import { mapState, mapActions, mapGetters } from "vuex";
 import Card from "@/components/v-card";
 
 export default {
   name: "Home",
   computed: {
     ...mapState({
-      artPieces: state => state.app.artPiecesList,
       page: state => state.app.page
+    }),
+    ...mapGetters("app", {
+      artPieces: "filteredArtPieces"
     })
   },
   methods: {

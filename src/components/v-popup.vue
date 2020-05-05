@@ -8,18 +8,18 @@
     }"
   >
     <transition name="fade" appear>
-      <div
-        ref="overlay"
-        class="v-popup__overlay"
-        v-if="showModal"
-      ></div>
+      <div ref="overlay" class="v-popup__overlay" v-if="showModal"></div>
     </transition>
     <transition name="slide" appear>
       <div class="v-popup__modal" v-if="showModal" ref="modal">
-        <button class="v-popup__close" v-on:click.stop="closePopup">
+        <button class="v-popup__close" @click.stop="closePopup">
           <img :src="clearImage" alt="" />
         </button>
-        <v-like-button />
+        <v-favorite-button
+          class="v-popup__favorite-button"
+          :isFavorite="artPiece.isFavorite"
+          @handleButtonAction="handleButtonAction"
+        />
         <div class="v-popup__modal__image-container">
           <img :src="artPiece.primaryImageUrl || defaultImage" alt="image" />
         </div>
@@ -38,7 +38,7 @@
 </template>
 
 <script>
-import Like from "@/components/v-like-button";
+import Favorite from "@/components/v-favorite-button";
 
 export default {
   name: "v-popup",
@@ -55,6 +55,9 @@ export default {
   methods: {
     closePopup() {
       this.$emit("closePopup");
+    },
+    handleButtonAction() {
+      this.$store.dispatch("app/handleFavorite", this.artPiece.objectNumber);
     }
   },
   data() {
@@ -64,7 +67,7 @@ export default {
     };
   },
   components: {
-    "v-like-button": Like
+    "v-favorite-button": Favorite
   }
 };
 </script>

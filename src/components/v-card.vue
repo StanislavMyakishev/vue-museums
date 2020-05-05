@@ -1,5 +1,10 @@
 <template>
   <div class="card" v-on:click.stop="handleShowModal(true)">
+    <v-favorite-button
+      class="card__favorite-button"
+      :isFavorite="artPiece.isFavorite"
+      @handleButtonAction="handleButtonAction"
+    />
     <div class="card__image-container">
       <img :src="artPiece.primaryImageUrl || defaultImage" alt="image" />
     </div>
@@ -18,6 +23,7 @@
 
 <script>
 import Popup from "@/components/v-popup";
+import Favorite from "@/components/v-favorite-button";
 
 export default {
   name: "v-card",
@@ -36,10 +42,14 @@ export default {
   methods: {
     handleShowModal(value) {
       this.showModal = !!value;
+    },
+    handleButtonAction() {
+      this.$store.dispatch("app/handleFavorite", this.artPiece.objectNumber);
     }
   },
   components: {
-    "v-popup": Popup
+    "v-popup": Popup,
+    "v-favorite-button": Favorite
   }
 };
 </script>

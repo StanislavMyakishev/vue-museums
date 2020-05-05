@@ -1,3 +1,4 @@
+import Vue from "vue";
 import api from "../../api";
 import * as types from "./mutation-types";
 
@@ -8,16 +9,26 @@ const state = () => ({
   page: 1,
   errors: [],
   artPiecesList: [],
-  favorites: []
+  favorites: {}
 });
 
-const getters = {};
+const getters = {
+  filteredArtPieces: state => {
+    return state.artPiecesList.map(artPiece => {
+      const isFavorite = !!state.favorites[artPiece.objectNumber];
+      return { ...artPiece, isFavorite: isFavorite };
+    });
+  }
+};
 
 const actions = {
   async loadPage({ commit, state }) {
     const data = await api.getArtPiecesPage(state.page);
     commit(types.APP_SET_PAGE_STATE, data);
     commit(types.APP_SET_ART_PIECES_LIST, data.artPiecesList);
+  },
+  handleFavorite({ commit }, objectNumber) {
+    commit(types.APP_HANDLE_FAVORITES, objectNumber);
   }
 };
 
@@ -34,11 +45,10 @@ const mutations = {
   [types.APP_SET_ART_PIECES_LIST](state, artPiecesList) {
     state.artPiecesList = artPiecesList;
   },
-  [types.APP_ADD_FAVORITE](state, id) {
-    state.favorites.push(id);
-  },
-  [types.APP_REMOVE_FAVORITE](state, id) {
-    state.favorites.filter(favorite => favorite !== id);
+  [types.APP_HANDLE_FAVORITES](state, objectNumber) {
+    const favorites = { ...state.favorites };
+    favorites[objectNumber] = !state.favorites[objectNumber];
+    Vue.set(state, "favorites", favorites);
   }
 };
 

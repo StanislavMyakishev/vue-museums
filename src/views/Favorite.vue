@@ -6,6 +6,6 @@
 
 <script>
 export default {
-  name: "favorite"
+  name: "Favorite"
 };
 </script>

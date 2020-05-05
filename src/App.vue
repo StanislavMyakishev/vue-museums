@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import Header from "./components/v-header";
+import Footer from "./components/v-footer";
 export default {
   components: {
     "app-header": Header,

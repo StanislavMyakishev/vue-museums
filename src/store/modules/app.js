@@ -68,7 +68,6 @@ const mutations = {
     state.errors = errors;
   },
   [types.APP_SET_LOADING](state, loading) {
-    console.log(loading);
     state.loading = loading;
   },
   [types.APP_SET_PAGE_STATE](state, { page, prev, next }) {

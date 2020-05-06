@@ -13,8 +13,8 @@
 
   &__favorite-button {
     position: absolute;
-    top: 45px;
-    right: 5px;
+    top: 5px;
+    right: 65px;
     border: none;
     background: transparent;
     cursor: pointer;
@@ -31,7 +31,7 @@
 
   &__title {
     margin: 10px 0;
-    font-size: 24px;
+    font-size: 22px;
 
     a {
       text-decoration: none;
@@ -86,15 +86,15 @@
   &__modal {
     position: fixed;
     cursor: default;
-    padding: 30px 50px;
+    padding: 50px 30px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 99;
     width: 100%;
     min-width: 50%;
-    max-width: 75%;
-    min-height: 60%;
+    max-width: 85%;
+    min-height: 65%;
     max-height: 90%;
     background-color: $colorLightGray;
     border-radius: 16px;
@@ -105,7 +105,7 @@
 
       img {
         width: 100%;
-        max-height: 300px;
+        max-height: 265px;
         object-fit: contain;
       }
     }
@@ -135,7 +135,7 @@
 @media only screen and (max-width: 960px) {
   .v-popup {
     &__modal {
-      max-width: 85%;
+      max-width: 90%;
     }
     &__modal {
       &__image-container {
@@ -147,7 +147,7 @@
   }
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
   .v-popup {
     &__title {
       font-size: 20px;
@@ -175,7 +175,7 @@
 @media only screen and (max-width: 500px) {
   .v-popup {
     &__modal {
-      padding: 30px 40px;
+      padding: 40px 30px;
     }
     &__title {
       font-size: 15px;
@@ -184,7 +184,7 @@
       font-size: 12px;
     }
     &__favorite-button {
-      right: 2.5px;
+      right: 55px;
       img {
         width: 25px;
       }

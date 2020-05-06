@@ -1,0 +1,76 @@
+.card {
+  position: relative;
+  grid-column-end: span 3;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  transition: all 0.4s ease-out 0s;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+}
+.card__wrapper {
+  grid-column-end: span 3;
+  display: flex;
+  flex-direction: column;
+}
+.card__favorite-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  z-index: 2;
+  transition: all 0.3s ease-out 0s;
+}
+.card__favorite-button img {
+  width: 30px;
+}
+.card__favorite-button:focus {
+  outline: none;
+}
+.card__favorite-button:hover {
+  transform: translateY(-5px);
+}
+.card__content {
+  height: 100%;
+  display: flex;
+  padding: 10px;
+  min-height: 90px;
+}
+.card__image-container {
+  width: 100%;
+  padding-top: 56.25%;
+  overflow: hidden;
+  position: relative;
+}
+.card__image-container img {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.card__title {
+  margin: auto;
+}
+.card:hover {
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.4);
+}
+
+@media only screen and (max-width: 1024px) {
+  .card {
+    grid-column-end: span 3;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .card {
+    grid-column-end: span 4;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .card {
+    grid-column-end: span 6;
+  }
+}
+
+/*# sourceMappingURL=card.css.map */

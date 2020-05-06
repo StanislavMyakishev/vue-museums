@@ -14,14 +14,14 @@
 </template>
 
 <script>
-import { mapGetters } from "vuex";
 import Card from "@/components/v-card";
+import { mapGetters } from "vuex";
 
 export default {
   name: "Favorite",
   computed: {
     ...mapGetters("app", {
-      artPieces: "favoriteArtPieces"
+      artPieces: "getFavoriteArtPieces"
     })
   },
   components: {

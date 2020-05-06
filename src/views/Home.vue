@@ -24,7 +24,7 @@ export default {
       page: state => state.app.page
     }),
     ...mapGetters("app", {
-      artPieces: "filteredArtPieces"
+      artPieces: "getArtPiecesList"
     })
   },
   methods: {

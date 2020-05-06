@@ -50,6 +50,15 @@ const actions = {
   handleInitialData({ commit }, { favorites, favoriteArtPieces }) {
     commit(types.APP_SET_FAVORITES, favorites);
     commit(types.APP_SET_FAVORITE_ART_PIECES, favoriteArtPieces);
+  },
+  handlePageChange({ commit, state, dispatch }, page) {
+    if (
+      (page < state.page && state.prev) ||
+      (page > state.page && state.next)
+    ) {
+      commit(types.APP_SET_PAGE_STATE, { ...state, page });
+      dispatch("loadPage", page);
+    }
   }
 };
 
@@ -61,7 +70,9 @@ const mutations = {
     state.loading = loading;
   },
   [types.APP_SET_PAGE_STATE](state, { page, prev, next }) {
-    state = { ...state, page, prev, next };
+    state.page = page;
+    state.prev = prev;
+    state.next = next;
   },
   [types.APP_SET_ART_PIECES_LIST](state, artPiecesList) {
     state.artPiecesList = artPiecesList;

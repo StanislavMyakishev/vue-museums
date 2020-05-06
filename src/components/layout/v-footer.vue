@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <div class="footer__wrapper">
+    <div class="footer__wrapper" v-if="this.$route.path !== '/favorite'">
       <a
         v-if="prev"
         class="footer__link"
@@ -16,8 +16,8 @@
         >Next</a
       >
       <a v-else class="footer__wrapper__link-disabled">Next</a>
-      <p>Stanislav Myakishev 2020</p>
     </div>
+    <p>Stanislav Myakishev 2020</p>
   </footer>
 </template>
 

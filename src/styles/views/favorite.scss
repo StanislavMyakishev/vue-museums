@@ -12,6 +12,10 @@
     grid-template-columns: repeat(12, minmax(auto, 60px));
     grid-gap: 40px;
   }
+
+  &__empty {
+    margin-top: 30px;
+  }
 }
 
 @media only screen and (max-width: 900px) {

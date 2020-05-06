@@ -1,9 +1,21 @@
 <template>
   <footer class="footer">
     <div class="footer__wrapper">
-      <a v-if="prev" @click.stop="handlePageChange(page - 1)">Prev</a>
+      <a
+        v-if="prev"
+        class="footer__link"
+        @click.stop="handlePageChange(page - 1)"
+        >Prev</a
+      >
+      <a v-else class="footer__link-disabled">Prev</a>
       <span>{{ page }}</span>
-      <a @click.stop="handlePageChange(page + 1)">Next</a>
+      <a
+        v-if="next"
+        class="footer__link"
+        @click.stop="handlePageChange(page + 1)"
+        >Next</a
+      >
+      <a v-else class="footer__wrapper__link-disabled">Next</a>
       <p>Stanislav Myakishev 2020</p>
     </div>
   </footer>

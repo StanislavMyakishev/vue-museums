@@ -1,7 +1,10 @@
 <template>
   <div class="home">
     <h1>Home</h1>
-    <div class="home__grid-wrapper">
+    <div class="home__loading-wrapper" v-if="loading">
+      <img :src="loader" alt="" />
+    </div>
+    <div class="home__grid-wrapper" v-else>
       <section class="home__cards-list">
         <v-card
           v-for="artPiece in artPieces"
@@ -21,11 +24,17 @@ export default {
   name: "Home",
   computed: {
     ...mapState({
-      page: state => state.app.page
+      page: state => state.app.page,
+      loading: state => state.app.loading
     }),
     ...mapGetters("app", {
       artPieces: "getArtPiecesList"
     })
+  },
+  data() {
+    return {
+      loader: require("../assets/images/loader.svg")
+    };
   },
   methods: {
     ...mapActions("app", {

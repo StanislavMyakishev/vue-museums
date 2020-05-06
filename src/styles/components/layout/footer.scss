@@ -2,16 +2,29 @@
 .footer {
   flex-shrink: 0;
   padding: 20px 10px 10px 10px;
-  a {
+
+  &__link {
     font-weight: bold;
     font-size: 20px;
-    color: #2c3e50;
+    color: rgba(44, 62, 80, 1);
     padding: 20px;
     margin: 0 10px;
 
     &:hover {
       color: $colorMainDark;
       cursor: pointer;
+    }
+  }
+
+  &__link-disabled {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(44, 62, 80, 0.5);
+    padding: 20px;
+    margin: 0 10px;
+
+    &:hover {
+      cursor: not-allowed;
     }
   }
 

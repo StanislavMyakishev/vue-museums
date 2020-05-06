@@ -43,6 +43,7 @@ const actions = {
       return { ...artPiece, isFavorite: isFavorite };
     });
     commit(types.APP_SET_ART_PIECES_LIST, filteredArtPiecesList);
+    commit(types.APP_SET_LOADING, state.artPiecesList.length === 0);
   },
   handleFavorite({ commit }, objectNumber) {
     commit(types.APP_HANDLE_FAVORITES, objectNumber);
@@ -67,6 +68,7 @@ const mutations = {
     state.errors = errors;
   },
   [types.APP_SET_LOADING](state, loading) {
+    console.log(loading);
     state.loading = loading;
   },
   [types.APP_SET_PAGE_STATE](state, { page, prev, next }) {

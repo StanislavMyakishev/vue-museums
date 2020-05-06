@@ -6,6 +6,16 @@
     grid-gap: 40px;
   }
 
+  &__loading-wrapper {
+    margin: 5.5%;
+    display: inline-block;
+    width: 30%;
+
+    img {
+      object-fit: contain;
+    }
+  }
+
   &__cards-list {
     display: grid;
     grid-column: 2 / span 12;

@@ -1,3 +1,4 @@
+@import '../setup/variables';
 .v-popup {
   &__overlay {
     position: fixed;
@@ -30,19 +31,36 @@
 
   &__title {
     margin: 10px 0;
+    font-size: 24px;
+
+    a {
+      text-decoration: none;
+      color: $colorMainDark;
+
+      &:hover {
+        color: $colorMain;
+        text-decoration:none;
+        cursor:pointer;
+      }
+    }
 
     h2 {
-      font-size: 25px;
+      font-size: inherit;
       line-height: 35px;
     }
   }
 
   &__info {
+    color: $colorText;
     text-align: center;
     vertical-align: middle;
     padding: 10px;
     font-size: 18px;
     line-height: 20px;
+
+    h4 {
+      font-size: inherit;
+    }
   }
 
   &__close {
@@ -75,10 +93,10 @@
     z-index: 99;
     width: 100%;
     min-width: 50%;
-    max-width: 70%;
+    max-width: 75%;
     min-height: 60%;
     max-height: 90%;
-    background-color: #dddddd;
+    background-color: $colorLightGray;
     border-radius: 16px;
 
     &__image-container {
@@ -87,7 +105,7 @@
 
       img {
         width: 100%;
-        max-height: 250px;
+        max-height: 300px;
         object-fit: contain;
       }
     }
@@ -112,4 +130,70 @@
 .slide-enter,
 .slide-leave-to {
   transform: translateX(-50%) translateY(100vw);
+}
+
+@media only screen and (max-width: 960px) {
+  .v-popup {
+    &__modal {
+      max-width: 85%;
+    }
+    &__modal {
+      &__image-container {
+        img {
+          max-height: 250px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .v-popup {
+    &__title {
+      font-size: 20px;
+    }
+    &__favorite-button {
+      img {
+        width: 30px;
+      }
+    }
+    &__close {
+      img {
+        width: 30px;
+      }
+    }
+    &__modal {
+      &__image-container {
+        img {
+          max-height: 200px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .v-popup {
+    &__modal {
+      padding: 30px 40px;
+    }
+    &__title {
+      font-size: 15px;
+    }
+    &__info {
+      font-size: 12px;
+    }
+    &__favorite-button {
+      right: 2.5px;
+      img {
+        width: 25px;
+      }
+    }
+    &__close {
+      right: 2.5px;
+      img {
+        width: 25px;
+      }
+    }
+  }
 }

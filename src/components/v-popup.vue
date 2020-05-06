@@ -24,7 +24,9 @@
           <img :src="artPiece.primaryImageUrl || defaultImage" alt="image" />
         </div>
         <div class="v-popup__title">
-          <h2>{{ artPiece.title }}</h2>
+          <a :href="artPiece.url" target="_blank">
+            <h2>{{ artPiece.title }}</h2>
+          </a>
         </div>
         <div class="v-popup__info">
           <h4><span>Object number:&nbsp;</span>{{ artPiece.objectNumber }}</h4>
@@ -38,7 +40,7 @@
 </template>
 
 <script>
-import Favorite from "@/components/v-favorite-button";
+import Favorite from "@/components/ui/v-favorite-button";
 
 export default {
   name: "v-popup",

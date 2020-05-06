@@ -23,7 +23,7 @@
 
 <script>
 import Popup from "@/components/v-popup";
-import Favorite from "@/components/v-favorite-button";
+import Favorite from "@/components/ui/v-favorite-button";
 
 export default {
   name: "v-card",

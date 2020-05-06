@@ -1,3 +1,4 @@
+@import '../setup/variables';
 .card {
   position: relative;
   grid-column-end: span 3;
@@ -74,34 +75,13 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .grid-wrapper {
-    grid-gap: 20px;
-  }
   .card {
     grid-column-end: span 4;
   }
 }
 
 @media only screen and (max-width: 800px) {
-  .grid-wrapper {
-    grid-gap: 10px;
-  }
   .card {
     grid-column-end: span 6;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .grid-wrapper {
-    grid-template-columns: 10px repeat(6, 1fr) 10px;
-    grid-gap: 10px;
-  }
-  .cards-list {
-    grid-column: 2 / span 6;
-    grid-template-columns: repeat(6, 1fr);
-    grid-gap: 20px;
-  }
-  .card {
-    grid-column-end: span 12;
   }
 }

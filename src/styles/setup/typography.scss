@@ -1,11 +1,14 @@
-p, h1, h2, h3, h4, h5, h6 {
+@import "../setup/variables";
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 0;
   font-weight: 400;
   margin-bottom: 0;
-
-  @include themify($themes) {
-    color: themed('colorText');
-  }
 }
 
 p {
@@ -13,7 +16,7 @@ p {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 30px;
   line-height: 48px;
 
   &.subhead {
@@ -93,8 +96,12 @@ h6 {
 }
 
 .typography-card {
-
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-bottom: 10px;
   }
 }
@@ -102,13 +109,13 @@ h6 {
 blockquote {
   font-size: 13px;
   font-style: italic;
-  border-left: 3px solid $color-accent;
+  border-left: 3px solid $colorMainLight;
   margin-bottom: 0;
   padding-left: 10px;
 }
 
 .highlight {
-  background-color: $color-accent;
+  background-color: $colorMainLight;
   color: #ffffff;
 }
 
@@ -130,7 +137,7 @@ blockquote {
     margin-bottom: 30px;
   }
 
-  &.page-title--not-last{
+  &.page-title--not-last {
     margin-top: 20px;
   }
 }
@@ -146,6 +153,5 @@ blockquote {
 
 ::selection {
   color: #ffffff;
-  background: $color-accent;
+  background: $colorMainLight;
 }
-

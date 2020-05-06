@@ -18,6 +18,9 @@ const getters = {
       const isFavorite = !!state.favorites[artPiece.objectNumber];
       return { ...artPiece, isFavorite: isFavorite };
     });
+  },
+  favoriteArtPieces: (state, getters) => {
+    return getters.filteredArtPieces.filter(artPiece => !!artPiece.isFavorite);
   }
 };
 

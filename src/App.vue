@@ -1,14 +1,16 @@
 <template>
   <div id="app">
     <app-header />
-    <router-view />
+    <div class="content">
+      <router-view />
+    </div>
     <app-footer />
   </div>
 </template>
 
 <script>
-import Header from "./components/v-header";
-import Footer from "./components/v-footer";
+import Header from "@/components/layout/v-header";
+import Footer from "@/components/layout/v-footer";
 export default {
   components: {
     "app-header": Header,
@@ -19,4 +21,5 @@ export default {
 
 <style lang="scss">
 @import "./styles/global";
+@import "./styles/components/layout/app";
 </style>

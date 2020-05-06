@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <h1>Home</h1>
-    <div class="grid-wrapper">
-      <section class="cards-list">
+    <div class="home__grid-wrapper">
+      <section class="home__cards-list">
         <v-card
           v-for="artPiece in artPieces"
           :key="artPiece.objectNumber"
@@ -42,5 +42,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import "../styles/components/home";
+@import "../styles/views/home";
 </style>

@@ -2,6 +2,10 @@ main {
   padding: 0;
 }
 
+html, body {
+  height: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -9,10 +13,6 @@ body {
   font-family: 'Assistant', sans-serif;
   font-size: 13px;
   line-height: 1.4;
-
-  @include themify($themes) {
-    color: themed('colorText');
-  }
 }
 
 ul, ol {
@@ -39,5 +39,8 @@ img {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   color: #2c3e50;
 }

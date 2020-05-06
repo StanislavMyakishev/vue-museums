@@ -21,8 +21,8 @@ export default {
   },
   data() {
     return {
-      favoriteImage: require("../assets/images/favorite_filled.svg"),
-      notFavoriteImage: require("../assets/images/favorite_outlined.svg")
+      favoriteImage: require("../../assets/images/favorite_filled.svg"),
+      notFavoriteImage: require("../../assets/images/favorite_outlined.svg")
     };
   }
 };

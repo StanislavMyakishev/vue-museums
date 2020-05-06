@@ -35,6 +35,11 @@ export default {
   },
   methods: {
     handlePageChange(page) {
+      window.scroll({
+        top: 0,
+        left: 0,
+        behavior: 'smooth'
+      });
       this.$store.dispatch("app/handlePageChange", page);
     }
   }
